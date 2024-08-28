@@ -10,7 +10,7 @@ body {
     flex-direction: column;
     font-family: Noto sans;
     font-size: 1em;
-    background: url(/images/body.png);
+    background: url(../images/body.png);
     background-size: cover;
     background-position: center top;
 }
@@ -171,49 +171,49 @@ main {
 }
 
 .row1 .colorContainer:first-of-type .colorCircle{
-    background: url(/images/white.png);
+    background: url(../images/white.png);
 }
 
 .row1 .colorContainer:nth-of-type(2) .colorCircle {
-    background: url(/images/gray.png);
+    background: url(../images/gray.png);
 }
 
 .row1 .colorContainer:nth-of-type(3) .colorCircle {
-    background: url(/images/black.png);
+    background: url(../images/black.png);
 }
 
 .row2 .colorContainer:first-of-type .colorCircle{
-    background: url(/images/cream.png);
+    background: url(../images/cream.png);
 }
 
 .row2 .colorContainer:nth-of-type(2) .colorCircle {
-    background: url(/images/pink.png);
+    background: url(../images/pink.png);
 }
 
 .row2 .colorContainer:nth-of-type(3) .colorCircle {
-    background: url(/images/purple.png);
+    background: url(../images/purple.png);
 }
 
 .row3 .colorContainer:first-of-type .colorCircle{
-    background: url(/images/blue.png);
+    background: url(../images/blue.png);
 }
 
 .row3 .colorContainer:nth-of-type(2) .colorCircle {
-    background: url(/images/red.png);
+    background: url(../images/red.png);
 }
 
 .row3 .colorContainer:nth-of-type(3) .colorCircle {
-    background: url(/images/green.png);
+    background: url(../images/green.png);
 }
 
 .row4 .colorContainer:first-of-type .colorCircle{
-    background: url(/images/yellow.png);
+    background: url(../images/yellow.png);
 }
 
 .row4 .colorContainer:nth-of-type(2) .colorCircle {
-    background: url(/images/brown.png);
+    background: url(../images/brown.png);
 }
 
 .row4 .colorContainer:nth-of-type(3) .colorCircle {
-    background: url(/images/orange.png);
+    background: url(../images/orange.png);
 }
